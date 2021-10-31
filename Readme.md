@@ -1,0 +1,4 @@
+Topic|Date|Type|Materials|Comments
+---|---|---|---|---|
+Intro|October 30, 2021|`lecture`|[[Video](https://youtu.be/zOaYm-wY7bo)]|Правила оценивания, формат работы, рассказ про курс, задачи сетевого анализа 
+Working with Gephi|October 30, 2021|`practice`|[[Video](https://youtu.be/zOaYm-wY7bo)]|Визуализация сети в Gephi, получение сообществ
